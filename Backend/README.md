@@ -13,7 +13,9 @@ This backend service serves as the TODO application Backend.
 - Run `npm start` to start the application.
 - Connect to the API using postman on port `5000`.
 ## API Endpoints
-- Base URL: `localhost:5000`
+- Base URL: 
+    - Locally - `localhost:5000` 
+    - Deployed - `https://todoapi-34w8.onrender.com/`
 
 |HTTP Verbs| Endpoints|Action|
 |----------|----------|------|
