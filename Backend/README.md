@@ -26,6 +26,8 @@ This backend service serves as the TODO application Backend.
 |DELETE|/delete|To delete the task|
 
 ## Endpoints Definition(Request - Response)
+- _Server Status_
+    [Click here to check](https://todoapi-34w8.onrender.com/)
 - _GET_ `/todos`
     - list of all tasks
 
